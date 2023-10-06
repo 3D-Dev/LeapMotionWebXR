@@ -1,11 +1,11 @@
 {
-	"name": "leapshape",
-	"productName": "LeapShape",
+	"name": "leapmotionwebxr",
+	"productName": "LeapMotionWebXR",
 	"description": "Browser BRep CAD in VR",
-	"homepage": "https://leapmotion.github.io/LeapShape",
+	"homepage": "https://softwareengineer0.github.io/LeapMotionWebXR/",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/leapmotion/LeapShape.git"
+		"url": "git+https://github.com/SoftwareEngineer0/LeapMotionWebXR.git"
 	},
 	"author": {
 		"name": "Ultraleap"
